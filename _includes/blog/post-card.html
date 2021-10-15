@@ -42,8 +42,15 @@
         {%- endif -%}
       </p>
     </div>
-    <div class="card-footer {{ text_style }}">
-      {{ post.date | date_to_long_string }}
+    <div class="card-footer {{ text_style }} d-flex justify-content-between">
+      <div>{{ post.date | date_to_long_string }}</div>
+      <div>{%- assign words = post.content | number_of_words -%}
+        {%- if post.external_url - %}
+        {%- elsif words < 360 -%}
+          less than 1 min read time
+        {%- else -%}
+          {{ words | divided_by: 180 }} mins read time
+        {%- endif -%}</div>
     </div>
   </a>
 </div>
