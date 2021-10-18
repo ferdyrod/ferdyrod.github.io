@@ -7,6 +7,7 @@ baseurl             : ""                     # Change to empty quotes if you are
 repository          : ferdyrod/ferdyrod.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+theme_skin: blue
 
 
 ### Plugins ###
