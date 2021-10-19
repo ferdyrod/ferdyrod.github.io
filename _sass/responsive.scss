@@ -18,9 +18,9 @@
 }
 
 @media screen and (max-width: 768px) {
-    .container {
+    .resume-container {
         .container-block {
-            display: block;
+            display: block !important;
         }
     }
     .header {
