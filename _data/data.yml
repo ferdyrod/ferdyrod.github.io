@@ -1,43 +1,49 @@
-name: John Doe
+name: Ferdy Rodríguez
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: ferdyrodriguez@gmail.com
+  github: ferdyrod
+  linkedin: ferdyrodriguez
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Spanish (native)
+  - idiom: English (Advanced)
+  - idiom: German (Beginner)
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in Development of Applications and Service for Mobile Devices
+    time: 2016-2017
+    university: Universidad Politécnica de Madrid
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BSc in Computer Information Systems
+    time: 2000-2005
+    university: Ave María University
 
 skills:
-  - category: Backend
+  - category: Profesional
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Software Engineering
+      - Collaboration 
+      - Problem solving
+      - Analytical 
+      - Organization
+  - category: Technical
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Kotlin 
+      - Java
+      - Dependency Injection
+      - RxJava
+      - API Integration
+      - Unit and Integration Testing
+      - Continous Integration
+      - Object-oriented Design
+      - Git
 
 # Profile
 profile: |
@@ -49,60 +55,63 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Android Developer
+    time: 2017-Present
+    company: Quadram | Mobile Solutions
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      - Implemented app using Clean Architecture and commonly used libraries <br>
+      - Collaborated with product, design and quality teams in implementing and solving features or bugs during app development <br>
+      - Core maintainer of open source project <br>
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Kotlin, Java, RxJava, Dagger, Jetpack, Espresso, Bitrise
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Android Developer
+    time: 2017-2017
+    company: Murme
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      - Implemented roadmap features <br> 
+      - Shipped bug-fixes solutions <br>
+      - Worked with audio and video libraries such as Quikblox and Exoplayer <br>
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Java, Retrofit, RxJava, Exoplayer, Quikblox
+
+  - role: POS Applications Engineer
+    time: 2006-2016
+    company: BAC | Credomatic Honduras
+    details: |
+      - Increased service availability to 98%+ uptime <br>
+      - Coordinated personnel for client support <br>
+      - Integrated virtual POS apps with clients Point of sale software <br>
+
+    technologies_used: | 
+      .Net, Microsoft Dynamics RMS, 
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Lo Quiero, Un Caso Práctivo de Mobile-D
+    link: "https://oa.upm.es/58690/1/TESIS_MASTER_FERDY_ALLAN_RODRIGUEZ_SUAZO.pdf"
+    authors: Ferdy Rodriguez
+    conference: 
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: 
+    link:
+    authors: 
+    conference: 
 
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+# projects:
+#   - title: 
+#     link: 
+#     details: 
+      
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+#   - title: 
+#     link: 
+#     details: 
+      
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+# # Volunteering
+# volunteering:
+#   - time: 
+#     role: 
+#     company: 
+#     details: 
+      

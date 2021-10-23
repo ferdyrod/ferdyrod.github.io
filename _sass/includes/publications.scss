@@ -10,6 +10,7 @@
                     text-decoration: none;
                     font-weight: bold;
                     @include body-text; 
+                    margin-top: 5px;
                 }
             }
             .authors {

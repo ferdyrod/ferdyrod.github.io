@@ -9,6 +9,7 @@
         .company {
             @include body-text;
             font-weight: bold;
+            margin-bottom: 2px;
             .time {
                 float: right;
                 color: var(--fg-color-title-sm);
@@ -17,9 +18,11 @@
         }
         .details {
             @include body-text;
+            margin-top: 10px;;
         }
         .technologies {
             @include body-text;
+            margin-top: 10px;
         }
     }
 }
