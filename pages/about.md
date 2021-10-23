@@ -11,7 +11,7 @@ Hi I am **{{ site.author.name }}**, welcome to my site! :wave:<br>
 
 I'm a software engineer from Honduras currently based in Madrid, with more than 15 years of experience. The last 5 years I've been focusing on Android development. I'm currently working at [Quadram](https://quadram.mobi) as an Android Developer. If you want more details you can check my [Resume](/resume)
 
-I've worked on various types of applications in fields such as social, finance and banking, media streaming and health sectors. I always aim to apply best practices like clean code, SOLID principles, and testing to the projects that I'm working on. 
+I've worked on various types of applications in fields such as social, finance, banking, media streaming, and health sectors. I always aim to apply best practices like clean code, SOLID principles, and testing to the projects that I'm working on. 
 
 If you want to contact me, you can use any of my social networks that are down below.
 
