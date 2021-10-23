@@ -4,17 +4,24 @@ title: About
 permalink: /about/
 weight: 3
 ---
-
+<br>
 # **About Me**
+<br>
+Hi I am **{{ site.author.name }}**, welcome to my site! :wave:<br>
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm a software engineer from Honduras currently based in Madrid, with more than 15 years of experience. The last 5 years I've been focusing on Android development. I'm currently working at [Quadram](https://quadram.mobi) as an Android Developer. If you want more details you can check my [Resume](/resume)
 
-<div class="row">
+I've worked on various types of applications in fields such as social, finance and banking, media streaming and health sectors. I always aim to apply best practices like clean code, SOLID principles, and testing to the projects that I'm working on. 
+
+If you want to contact me, you can use any of my social networks that are down below.
+
+Cheers,
+
+<!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
 {% include about/timeline.html %}
-</div>
+</div> -->
