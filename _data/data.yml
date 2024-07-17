@@ -37,9 +37,9 @@ skills:
     skill:
       - Kotlin 
       - Java
+      - Jetpack Compose
       - Dependency Injection
       - RxJava
-      - API Integration
       - Unit and Integration Testing
       - Continous Integration
       - Object-oriented Design
@@ -61,7 +61,7 @@ experience:
       - Collaborated with product, design and quality teams in implementing and solving features or bugs during app development <br>
       - Core maintainer of open source project <br>
     technologies_used: | 
-      Kotlin, Java, RxJava, Dagger, Jetpack, Espresso, Bitrise
+      Kotlin, Jetpack Compose, Coroutines, Flows, RxJava, Dagger, Koin, Espresso, CI/CD
   
   - role: Android Developer
     time: 2017-2017
