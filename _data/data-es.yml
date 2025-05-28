@@ -1,0 +1,129 @@
+name: Ferdy Rodríguez
+support_dark_mode: true
+fork: false
+
+# Sidebar
+contact:
+  email: ferdyrodriguez@gmail.com
+  github: ferdyrod
+  linkedin: ferdyrodriguez
+  phone: 
+  gitlab: 
+  twitter: 
+
+languages:
+  - idiom: Español
+  - idiom: Ingles (Avanzado)
+  - idiom: Alemán (Principiante)
+
+education:
+  - degree: MSc en Desarrollo de Aplicaciones y Servicios para Dispositivos Móviles
+    time: 2016-2017
+    university: Universidad Politécnica de Madrid
+
+  - degree: Ing. en Sistemas de Información Computacionales
+    time: 2000-2005
+    university: Ave María University
+
+
+skills:
+  - category: Profesionales
+    skill: 
+      - Comunicación efectiva
+      - Adaptabilidad
+      - Resolución de Problemas
+      - Atención al detalle 
+      - Proactividad
+  - category: Técnicas
+    skill:
+      - Android SDK
+      - Kotlin 
+      - Java
+      - Jetpack Compose
+      - MVVM, MVI, MVP
+      - Injección de Dependencias
+      - Corutinas, Flows, RxJava
+      - Tests Unitarios y de Integración
+      - Integración Continua
+
+# Profile
+profile: |
+  Desarrollador Android Senior con más de 7 años de experiencia en aplicaciones móviles 
+  y 18 años en ingeniería de software. Especializado en Kotlin, Jetpack Compose y Clean 
+  Architecture, con un historial comprobado de entregar aplicaciones escalables y 
+  altamente estables (98 % crash-free). Gran capacidad para colaborar en equipos ágiles 
+  y multifuncionales, centrado en ofrecer experiencias de usuario de alta calidad.
+
+# Experience
+experience:
+  - role: Senior Android Developer
+    time: 2018-Present
+    company: DHIS2
+    details: |
+      - Colaboré con los equipos de Producto, UX/UI y QA para entregar más de 15 funcionalidades por versión. <br>
+      - Establecí CI/CD usando Jenkins y GitHub Actions, reduciendo el tiempo de despliegue de 2 horas a 35 minutos y habilitando pruebas automatizadas en todas las pull requests. <br>
+      - Implementé estrategias de pruebas que incluye tests unitarios, de integración y de interfaz (screenshot), alcanzando una cobertura de código superior al 85%. <br>
+    technologies_used: | 
+      Kotlin, Jetpack Compose, Coroutines, Flows, RxJava, Dagger, Koin, Espresso, CI/CD
+
+
+  - role: Android Developer
+    time: 2017-Present
+    company: Quadram | Mobile Solutions
+    details: |
+      - Desarrollé aplicaciones Android utilizando Clean Architecture, Kotlin y Jetpack Compose, logrando ciclos de desarrollo un 30% más rápidos. <br>
+      - Optimicé el rendimiento de las aplicaciones mediante refactorización de código y el uso de librerías modernas de Android. <br>
+      - Mentoricé a desarrolladores junior, brindando orientación en buenas prácticas y calidad de código. <br>
+    technologies_used: | 
+      Kotlin, Jetpack Compose, Coroutines, Flows, RxJava, Dagger, Koin, Espresso, CI/CD
+  
+  - role: Android Developer
+    time: 2017-2017
+    company: Murme
+    details: |
+      - Implementé funcionalidades claves para una aplicación de red social con más de 10,000 usuarios activos, incluyendo mensajería en tiempo real. <br> 
+      - Resolví errores críticos en producción dentro de un SLA de 24 horas, manteniendo la estabilidad de la app y la satisfacción del usuario por encima del 90 %. <br>
+      - Integré librerías de procesamiento de audio (QuickBlox, ExoPlayer) para habilitar comunicación multimedia. <br>
+    technologies_used: | 
+      Java, Retrofit, RxJava, Exoplayer, Quikblox
+
+  - role: POS Applications Engineer
+    time: 2006-2016
+    company: BAC | Credomatic Honduras
+    details: |
+      - Aumenté la disponibilidad del sistema de procesamiento de pagos a más del 98% en operaciones diarias en más de 400 puntos de venta.<br>
+      - Integré aplicaciones de Punto de Venta virtuales con software de gestión de caja, permitiendo el procesamiento de pagos en más de 200 cadenas comerciales. <br>
+      - Coordiné actualizaciones de servidores y ventanas de mantenimiento, asegurando una mínima interrupción de negocio. <br>
+
+    technologies_used: | 
+      .Net, Microsoft Dynamics RMS
+
+#publications:
+#  - title: Lo Quiero, Un Caso Práctico de Mobile-D
+#    link: "https://oa.upm.es/58690/1/TESIS_MASTER_FERDY_ALLAN_RODRIGUEZ_SUAZO.pdf"
+#    authors: Ferdy Rodriguez
+#    conference: 
+
+#  - title: 
+#    link:
+#    authors: 
+#    conference: 
+
+# projects:
+#   - title: 
+#     link: 
+#     details: 
+      
+
+#   - title: 
+#     link: 
+#     details: 
+      
+
+# # Volunteering
+# volunteering:
+#   - time: 
+#     role: 
+#     company: 
+#     details: 
+      
