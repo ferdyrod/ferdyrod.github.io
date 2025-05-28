@@ -26,7 +26,7 @@ education:
     university: Ave María University
 
 skills:
-  - category: Profesional
+  - category: Professional
     skill: 
       - Software Engineering
       - Collaboration 
@@ -47,29 +47,40 @@ skills:
 
 # Profile
 profile: |
-  I'm a software engineer with more than 15 years of experience that is currently focused in Android development.
-  I'm a quick and self-learner and I'm eager to find a place to continue furthering my knowledge and experience 
-  with the most recent and exciting mobile technologies and software practices.
+  I am a Senior Android Developer with 7+ years of experience in mobile application development and 18+ years in software engineering.
+  I specialize in building robust, scalable Android applications using Kotlin, Java, Jetpack Compose and more, with a strong focus on
+  Clean Architecture and SOLID principles. My work consistently delivers high stability, with apps achieving over 98% crash-free performance.
+  I work great in Agile environments and with cross-functional teams effectively to deliver high-quality user experiences.
 
 # Experience
 experience:
+  - role: Senior Android Developer
+    time: 2018-Present
+    company: DHIS2
+    details: |
+      - Collaborated cross-functionally with Product, UX/UI Design, and QA teams in Agile environment to deliver 15+ features per releases <br>
+      - Established CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment time from 2 hours to 35 minutes and enabling automated testing for all pull requests <br>
+      - Implemented testing strategy including unit tests, integration tests, screenshot test and end-to-end tests, achieving 85%+ code coverage <br>
+    technologies_used: | 
+      Kotlin, Jetpack Compose, Kotlin Multiplatform, MVVM, MVI, Coroutines, Flows, RxJava, Dagger, Koin, Espresso, CI/CD
+
   - role: Android Developer
     time: 2017-Present
     company: Quadram | Mobile Solutions
     details: |
-      - Implemented app using Clean Architecture and commonly used libraries <br>
-      - Collaborated with product, design and quality teams in implementing and solving features or bugs during app development <br>
-      - Core maintainer of open source project <br>
+      - Architected and developed Android applications using Clean Architecture, Kotlin, and Jetpack Compose, resulting in 30% faster development cycles <br>
+      - Optimized apps performance through code refactoring and modern Android libraries <br>
+      - Mentored junior developers, providing guidance on best practices and code quality<br>
     technologies_used: | 
-      Kotlin, Jetpack Compose, Coroutines, Flows, RxJava, Dagger, Koin, Espresso, CI/CD
+      Kotlin, Jetpack Compose, Coroutines, Flows, RxJava, Koin, Room, Retrofit, MVVM, MVI
   
   - role: Android Developer
     time: 2017-2017
     company: Murme
     details: |
-      - Implemented roadmap features <br> 
-      - Shipped bug-fixes solutions <br>
-      - Worked with audio and video libraries such as Quikblox and Exoplayer <br>
+      - Delivered roadmap features for social media Android application serving 10,000+ active users, implementing real-time messaging <br> 
+      - Resolved critical production bugs within 24-hour SLA, maintaining app stability and user satisfaction above 90% <br>
+      - Integrated audio processing libraries (QuickBlox, ExoPlayer) to enable multimedia communication <br>
     technologies_used: | 
       Java, Retrofit, RxJava, Exoplayer, Quikblox
 
@@ -77,23 +88,23 @@ experience:
     time: 2006-2016
     company: BAC | Credomatic Honduras
     details: |
-      - Increased service availability to 98%+ uptime <br>
-      - Coordinated personnel for client support <br>
-      - Integrated virtual POS apps with clients Point of sale software <br>
+      - Increased payment processing system availability to 98%+ uptime, in daily transaction volume across 400+ merchant locations <br>
+      - Integrated virtual Point of Sale applications with client retail management software, enabling payment processing for 200+ retail chains <br>
+      - Coordinated servers upgrades and maintenance windows, ensuring minimal business disruption <br>
 
     technologies_used: | 
       .Net, Microsoft Dynamics RMS, 
 
-publications:
-  - title: Lo Quiero, Un Caso Práctico de Mobile-D
-    link: "https://oa.upm.es/58690/1/TESIS_MASTER_FERDY_ALLAN_RODRIGUEZ_SUAZO.pdf"
-    authors: Ferdy Rodriguez
-    conference: 
+#publications:
+#  - title: Lo Quiero, Un Caso Práctico de Mobile-D
+#    link: "https://oa.upm.es/58690/1/TESIS_MASTER_FERDY_ALLAN_RODRIGUEZ_SUAZO.pdf"
+#    authors: Ferdy Rodriguez
+#    conference: 
 
-  - title: 
-    link:
-    authors: 
-    conference: 
+#  - title: 
+#    link:
+#    authors: 
+#    conference: 
 
 # projects:
 #   - title: 
